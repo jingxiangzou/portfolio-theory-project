@@ -1,2 +1,2 @@
 # portfolio-theory-project
-This repository is for code sharing and preservation as part of the portfolio theory course project.
+Team Members: Pei Zhu, Yanran Xu, Zijun Wang, Junwen Peng, Jingxiang Zou
